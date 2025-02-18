@@ -1,0 +1,3 @@
+[submodule "metropolia-thesis-latex"]
+	path = metropolia-thesis-latex
+	url = https://github.com/panunu/metropolia-thesis-latex.git
